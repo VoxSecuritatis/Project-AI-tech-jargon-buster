@@ -4,7 +4,7 @@
 
 #### Streamlit demontration version:  https://tech-jargon-buster.streamlit.app
 
-#### Developer timeline (successes and failures):  https://github.com/VoxSecuritatis/AI-Project-tech-jargon-buster-dev-timeline/tree/main
+#### Development timeline (successes and failures):  https://github.com/VoxSecuritatis/AI-Project-tech-jargon-buster-dev-timeline/tree/main
 ---
 
 **Executive Summary**

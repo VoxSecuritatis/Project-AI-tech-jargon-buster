@@ -1,5 +1,9 @@
 # Tech Jargon Buster
 
+### Repository page:  https://github.com/VoxSecuritatis/tech-jargon-buster
+
+---
+
 **Executive Summary**
 
 Tech Jargon Buster is a **Streamlit-powered application** designed to make IT and cybersecurity terminology accessible to everyone.  

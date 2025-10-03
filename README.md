@@ -9,6 +9,7 @@
 **Executive Summary**
 
 Tech Jargon Buster is a **Streamlit-powered application** designed to make IT and cybersecurity terminology accessible to everyone.  
+
 By connecting to multiple **state-of-the-art Large Language Models (LLMs) via GitHub Models**, the app provides **side-by-side, plain-English explanations** of complex technical terms, enriched with real-world analogies.
 
 This project showcases the integration of modern AI tools into an easy-to-use interface, supporting both **local development (Codespaces/desktop)** and **cloud deployment (Streamlit Community Cloud)**.  

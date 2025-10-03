@@ -2,6 +2,8 @@
 
 ### Repository page:  https://github.com/VoxSecuritatis/tech-jargon-buster
 
+#### Streamlit demontration version:  https://tech-jargon-buster.streamlit.app
+
 ---
 
 **Executive Summary**

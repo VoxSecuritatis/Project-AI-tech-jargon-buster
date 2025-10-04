@@ -41,6 +41,7 @@ It highlights practical AI application development, secure token handling, and m
 ## 🛠️ Technical Overview
 
 - Built in **Python (3.9+)** with **Streamlit** frontend.
+- Built using GitHub Codespaces (personal note: I wanted to learn a cloud based IDE)
 - Uses **GitHub Models inference API** with a single **GitHub PAT** (`models:read` scope).
 - Supported models:
   - `gpt-4.1`

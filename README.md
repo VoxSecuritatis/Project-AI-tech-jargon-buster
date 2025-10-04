@@ -3,8 +3,12 @@
 ### Repository page:  https://github.com/VoxSecuritatis/tech-jargon-buster
 
 #### Streamlit demontration version:  https://tech-jargon-buster.streamlit.app
+  - Please note that the API key is a free tier and this is a portfolio project; the site maybe down to an expired or revoked key.
+  - The free tier API key allows 30 lookups per day, so feel free to experiment
+  - If the Streamlit demonstration version is not up, you can still see what the final UI looks like in the Development timeline below.
 
 #### Development timeline (successes and failures):  https://github.com/VoxSecuritatis/AI-Project-tech-jargon-buster-dev-timeline/tree/main
+
 ---
 
 **Executive Summary**
